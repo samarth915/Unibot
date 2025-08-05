@@ -1,0 +1,1694 @@
+Department: Biological Sciences
+Prof. Anasuya Ganguly - Professor
+Email: ganguly@goa.bits-pilani.ac.in
+Phone: 8322580244
+Chamber: BIO-101
+Research Interests: Microbiology, Environmental Biotechnology
+
+Prof. Angshuman Sarkar - Professor
+Email: asarkar@goa.bits-pilani.ac.in
+Phone: 8322580261
+Chamber: BIO-102
+Research Interests: Structural Biology, Protein Biochemistry
+
+Dr. Arnab Banerjee - Associate Professor
+Email: arnab.banerjee@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-201
+Research Interests: Neurobiology, Molecular Neuroscience
+
+Prof. Dibakar Chakrabarty - Professor
+Email: dibakar@goa.bits-pilani.ac.in, hod.biology@goa.bits-pilani.ac.in
+Phone: 8322580173
+Chamber: BIO-103
+Research Interests: Plant Biotechnology, Genetic Engineering
+
+Dr. Indrani Talukdar - Associate Professor
+Email: indrani@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-202
+Research Interests: RNA Biology, Molecular Genetics
+
+Prof. Judith Maria Braganca - Professor
+Email: judith@goa.bits-pilani.ac.in
+Phone: 8322580305
+Chamber: BIO-C205
+Research Interests: Biodiversity of Halophiles, Biotechnological applications of halophilic archaea and bacteria, Metal tolerance in microorganisms
+
+Dr. Malabika Biswas - Associate Professor
+Email: malabika@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-203
+Research Interests: Gene regulation in bacteriophages, Structural and functional characterization of bacterial proteins
+
+Prof. Meenal Kowshik - Professor
+Email: meenal@goa.bits-pilani.ac.in
+Phone: 0832-2580304, 9422442750
+Chamber: C 217, Department of Biological Sciences
+Research Interests: Nanobiotechnology, Biomaterials
+
+Prof. Kundan Kumar - Professor
+Email: kundan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-105
+Research Interests: Microbial Biotechnology, Enzyme Technology
+
+Prof. Rajesh Mehrotra - Professor
+Email: rajesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-106
+Research Interests: Plant Molecular Biology
+
+Dr. Raviprasad Aduri - Associate Professor
+Email: raviprasad@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-204
+Research Interests: Structural Biology, Bioinformatics
+
+Prof. Samit Chattopadhyay - Senior Professor
+Email: samit@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-107
+Research Interests: Immunology, Infectious Diseases
+
+Prof. Sandhya Mehrotra - Professor
+Email: sandhya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-108
+Research Interests: Plant Biotechnology, Metabolic Engineering
+
+Dr. Sonal Ayakar - Assistant Professor
+Email: sonal@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-301
+Research Interests: Cancer Biology, Epigenetics
+
+Prof. Srikanth Mutnuri - Professor
+Email: srikanth@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-109
+Research Interests: Environmental Microbiology, Wastewater Treatment
+
+Dr. Sukanta Mondal - Associate Professor
+Email: sukanta@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-205
+Research Interests: Animal Biotechnology, Reproductive Biology
+
+Prof. Suman Kundu - Senior Professor & Director
+Email: skundu@goa.bits-pilani.ac.in
+Phone: 0832-2580101
+Chamber: BIO-110
+Research Interests: Protein Science, Biophysics
+
+Prof. Sumit Biswas - Professor
+Email: sumit@goa.bits-pilani.ac.in
+Phone: 8322580178
+Chamber: BIO-C212
+Research Interests: Biology of biofilms, Horseshoe Crab Evo Devo, Natural Therapeutics, Structure-function of proteins from pathogens
+
+Dr. Tusar Tirtha Saha - Assistant Professor
+Email: tusar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-302
+Research Interests: Neurobiology, Behavioral Neuroscience
+
+Prof. Utpal Roy - Professor
+Email: utpal@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-111
+Research Interests: Molecular Biology, Genetic Engineering
+
+Prof. Veeky Baths - Professor
+Email: veeky@goa.bits-pilani.ac.in
+Phone: 9823764987
+Chamber: BIO-112
+Research Interests: Neuroscience, Cognitive Science
+
+Prof. Vijayashree Nayak - Professor
+Email: vijayashree@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: BIO-113
+Research Interests: Medical Microbiology, Immunology
+
+
+
+
+
+
+
+
+
+Department: Chemical Engineering
+Prof. Abhishek Sharma - Visiting Professor
+Email: abhishek.sharma@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-V01
+Research Interests: Process Systems Engineering, Optimization
+
+Dr. Amol Deshpande - Assistant Professor
+Email: amol.deshpande@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-301
+Research Interests: Membrane Separations, Water Treatment
+
+Dr. Anirban Roy - Associate Professor
+Email: anirban.roy@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-201
+Research Interests: Reaction Engineering, Catalysis
+
+Dr. Asima Shaukat - Assistant Professor
+Email: asima.shaukat@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-302
+Research Interests: Biochemical Engineering, Bioprocessing
+
+Prof. Srinivas Krishnaswamy - Professor
+Email: srinivas.k@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-101
+Research Interests: Process Control, Process Modeling
+
+Dr. Jayita Chopra - Assistant Professor
+Email: jayita.chopra@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-303
+Research Interests: Nanomaterials, Energy Applications
+
+Dr. Jegatha Nambi Krishnan - Associate Professor
+Email: jegatha.krishnan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-202
+Research Interests: Polymer Engineering, Rheology
+
+Dr. Manas Ranjan Behera - Assistant Professor
+Email: manas.behera@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-304
+Research Interests: Interfacial Phenomena, Colloids
+
+Dr. Manjuri Kumar - Associate Professor
+Email: manjuri.kumar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-203
+Research Interests: Thermodynamics, Molecular Simulations
+
+Dr. Mrunalini Gaydhane - Assistant Professor
+Email: mrunalini.g@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-305
+Research Interests: Biomaterials, Tissue Engineering
+
+Dr. Paramita Haldar - Assistant Professor
+Email: paramita.haldar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-306
+Research Interests: Process Safety, Risk Assessment
+
+Dr. Pradeep Kumar Sow - Associate Professor
+Email: pradeep.sow@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-204
+Research Interests: Electrochemical Engineering, Corrosion
+
+Dr. Puneet Siwach - Assistant Professor
+Email: puneet.siwach@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-307
+Research Interests: Catalysis, Reaction Engineering
+
+Prof. Ramakrishna Ramanath Sonde - Senior Professor Emeritus
+Email: ramakrishna.sonde@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-E01
+Research Interests: Process Development, Scale-up
+
+Dr. Richa Singhal - Associate Professor
+Email: richa.singhal@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-205
+Research Interests: Biochemical Engineering, Bioseparations
+
+Dr. Riju De - Assistant Professor
+Email: riju.de@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-308
+Research Interests: Microfluidics, Lab-on-Chip
+
+Dr. Samarshi Chakraborty - Assistant Professor, Gr-I
+Email: samarshi.chakraborty@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-309
+Research Interests: Energy Storage, Battery Technology
+
+Prof. Sampatrao Dagu Manjare - Professor & Head
+Email: sampatrao.manjare@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-102
+Research Interests: Separation Processes, Adsorption
+
+Prof. Saroj Sundar Baral - Professor
+Email: saroj.baral@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-103
+Research Interests: Environmental Engineering, Waste Treatment
+
+Dr. Saurabh Chandrakant Patankar - Assistant Professor
+Email: saurabh.patankar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-310
+Research Interests: Process Intensification, CFD
+
+Dr. Sharad Mahadeo Sontakke - Associate Professor
+Email: sharad.sontakke@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-206
+Research Interests: Nanocatalysis, Green Chemistry
+
+Dr. Sundari R - Assistant Professor
+Email: sundari.r@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-311
+Research Interests: Polymer Processing, Composites
+
+Prof. Sutapa Roy Ramanan - Senior Professor
+Email: sutapa.roy@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-104
+Research Interests: Transport Phenomena, Heat Transfer
+
+Dr. Upasana Mahanta - Assistant Professor
+Email: upasana.mahanta@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-312
+Research Interests: Biomass Conversion, Biofuels
+
+Dr. Vivek Rangarajan - Associate Professor
+Email: vivek.rangarajan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CHE-207
+Research Interests: Bioprocess Engineering, Fermentation
+
+
+
+
+
+
+
+
+
+Department: Chemistry
+Prof. Amrita Chatterjee - Professor
+Email: amrita@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Organic Chemistry, Medicinal Chemistry
+
+Prof. Anjan Chattopadhyay - Professor
+Email: anjan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Coordination Chemistry, Bioinorganic Chemistry
+
+Prof. Halan Prakash - Professor
+Email: halan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Inorganic Chemistry, Catalysis
+
+Dr. K. P. Jayadevan - Assistant Professor
+Email: jayadevan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Materials Chemistry, Nanomaterials
+
+Dr. Kiran Vankayala - Assistant Professor
+Email: kiran@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Organic Synthesis, Green Chemistry
+
+Prof. Mainak Banerjee - Professor
+Email: mainak@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Supramolecular Chemistry
+
+Prof. Narendra Nath Ghosh - Professor
+Email: narendra@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Materials Chemistry
+
+Prof. P. Bhavana - Professor
+Email: bhavana@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Organic Chemistry
+
+Prof. Sunil Bhand - Senior Professor
+Email: sunil@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Analytical Chemistry
+
+Prof. Rabi Narayan Panda - Associate Professor
+Email: rabi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Inorganic Materials
+
+Prof. Raghu Nath Behera - Professor
+Email: raghu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Physical Chemistry
+
+Prof. Ranjan Dey - Professor
+Email: ranjan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Organic Chemistry
+
+Prof. Rashmi Chauhan - Associate Professor
+Email: rashmi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Bioorganic Chemistry
+
+Dr. Sandip Kumar Nandi - Assistant Professor
+Email: sandip@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Materials Chemistry
+
+Prof. Sanjay Kumar - Professor of Practice
+Email: sanjay.kumar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-1XX
+Research Interests: Industrial Chemistry
+
+Dr. Saurav Bhattacharya - Assistant Professor
+Email: saurav@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Computational Chemistry
+
+Prof. Subhadeep Banerjee - Associate Professor
+Email: subhadeep@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Organic Chemistry
+
+Dr. Subhasish Roy - Assistant Professor
+Email: subhasish@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Inorganic Chemistry
+
+Dr. Sudipta Chatterjee - Assistant Professor
+Email: sudipta@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Materials Chemistry
+
+Prof. Tincy Lis Thomas - Associate Professor
+Email: tincy@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Polymer Chemistry
+
+Dr. Uttara Basu - Assistant Professor
+Email: uttara@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Organic Chemistry
+
+Dr. Woormileela Sinha - Assistant Professor
+Email: woormileela@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Chemistry-2XX
+Research Interests: Inorganic Chemistry
+
+
+
+
+
+
+
+Department: Electrical & Electronics Engineering (EEE)
+Prof. A. Amalin Prince - Professor & Head
+Email: amalin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-101
+Research Interests: Power Systems, Renewable Energy
+
+Prof. Anita Bhagirathji Agrawal - Associate Professor
+Email: anita@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-201
+Research Interests: Control Systems, Robotics
+
+Prof. Anupama Karuppiah - Senior Professor
+Email: anupama@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-102
+Research Interests: VLSI Design, Embedded Systems
+
+Dr. Anurag Nishad - Assistant Professor, Gr-I
+Email: anurag@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-202
+Research Interests: Power Electronics
+
+Dr. Apurba Chakraborty - Assistant Professor, Gr-I
+Email: apurba@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-203
+Research Interests: Signal Processing
+
+Dr. Arun Raman - Assistant Professor
+Email: arun@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-204
+Research Interests: Microelectronics
+
+Prof. Ashish Chittora - Associate Professor
+Email: ashish@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-103
+Research Interests: IoT, Smart Grids
+
+Dr. Chirayu Athalye - Assistant Professor
+Email: chirayu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-205
+Research Interests: Control Theory
+
+Dr. Debasis Das - Assistant Professor, Gr-I
+Email: debasis.das@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-206
+Research Interests: Power Systems
+
+Prof. Dipankar Pal - Professor
+Email: dipankar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-104
+Research Interests: Electrical Machines
+
+Prof. Gautam Bacher - Associate Professor
+Email: gautam@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-105
+Research Interests: Power Electronics
+
+Dr. Hrishikesh Sonalikar - Assistant Professor
+Email: hrishikesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-207
+Research Interests: Renewable Energy
+
+Dr. Kizheppatt Vipin - Assistant Professor, Gr-I
+Email: vipin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-208
+Research Interests: Control Systems
+
+Dr. Mahendra Tomar - Assistant Professor
+Email: mahendra@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-209
+Research Interests: Power Systems
+
+Dr. Manish Gupta - Assistant Professor, Gr-I
+Email: manish@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-210
+Research Interests: VLSI Design
+
+Prof. Mukund Deshmukh - Professor
+Email: mukund@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-106
+Research Interests: Power Electronics
+
+Dr. Narayan Manjarekar - Assistant Professor, Gr-I
+Email: narayan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-211
+Research Interests: Control Systems
+
+Dr. Naveen Gupta - Assistant Professor, Gr-I
+Email: naveen@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-212
+Research Interests: Power Systems
+
+Prof. Nitin Sharma - Associate Professor
+Email: nitin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-107
+Research Interests: Smart Grids
+
+Dr. Pravin Mane - Assistant Professor, Gr-I
+Email: pravin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-213
+Research Interests: Power Electronics
+
+Dr. Ramesh Vasan - Assistant Professor
+Email: ramesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-214
+Research Interests: Control Systems
+
+Prof. Ramesha C.K. - Professor
+Email: ramesha@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-108
+Research Interests: Power Systems
+
+Dr. Ravi Kadlimatti - Assistant Professor
+Email: ravi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-215
+Research Interests: Renewable Energy
+
+Dr. Sarang Dhongdi - Assistant Professor, Gr-I
+Email: sarang@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-216
+Research Interests: Power Electronics
+
+Dr. Shivin Srivastava - Visiting Assistant Professor
+Email: shivin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-217
+Research Interests: Control Systems
+
+Dr. Souvik Ghosh - Assistant Professor, Gr-I
+Email: souvik@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-218
+Research Interests: Power Systems
+
+Dr. Sudarshan Swain - Assistant Professor, Gr-I
+Email: sudarshan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-219
+Research Interests: Power Electronics
+
+Prof. Sudeep Baudha - Associate Professor
+Email: sudeep@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-109
+Research Interests: Control Systems
+
+Dr. Tushar Sakorikar - Assistant Professor, Gr-I
+Email: tushar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-220
+Research Interests: Power Systems
+
+Dr. Vinaya Kumar K B - Assistant Professor, Gr-I
+Email: vinaya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-221
+Research Interests: Power Electronics
+
+Dr. Vipin Joshi - Assistant Professor, Gr-I
+Email: vipin.joshi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: EEE-222
+Research Interests: Control Systems
+
+
+
+
+
+
+
+
+
+Department: Computer Science
+Prof. A. Baskar - Assistant Professor
+Email: baskar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Algorithms, Theoretical Computer Science
+
+Prof. Abhisek Chakrabarty - Assistant Professor
+Email: abhisek@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Machine Learning, Data Science
+
+Prof. Aditya Challa - Assistant Professor
+Email: aditya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Computer Networks, IoT
+
+Prof. Anand Narasimhamurthy - Visiting Associate Professor
+Email: anand@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Software Engineering, Formal Methods
+
+Prof. Aniket Basu Roy - Assistant Professor
+Email: aniket@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: AI, Robotics
+
+Prof. Arnab Kumar Paul - Assistant Professor
+Email: arnab.paul@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Cybersecurity, Cryptography
+
+Prof. Ashwin Srinivasan - Senior Professor
+Email: ashwin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: AI, Logic Programming
+
+Prof. Basabdatta Bhattacharya - Associate Professor
+Email: basabdatta@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Computational Neuroscience
+
+Prof. Bharat Madhusudan Deshpande - Professor
+Email: bharat@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Signal Processing
+
+Prof. Biju K. Raveendran Nair - Professor
+Email: biju@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Distributed Systems
+
+Prof. Diptendu Chatterjee - Assistant Professor
+Email: diptendu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Quantum Computing
+
+Prof. Gargi Sanket Prabhu - Visiting Faculty
+Email: gargi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Human-Computer Interaction
+
+Prof. Harikrishnan N. B. - Professor
+Email: harikrishnan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Cloud Computing
+
+Prof. Hemant Rathore - Assistant Professor
+Email: hemant@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Network Security
+
+Prof. Kanchan Manna - Assistant Professor
+Email: kanchan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Formal Methods, Software Verification
+
+Prof. Kunal Kishore Korgaonkar - Assistant Professor
+Email: kunal@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Computer Vision
+
+Prof. Lovekesh Vig - Professor of Practice
+Email: lovekesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Industry Applications of AI
+
+Prof. Manideepa Mukherjee - Visiting Assistant Professor
+Email: manideepa@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Natural Language Processing
+
+Prof. Neena Goveas - Professor
+Email: neena@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Software Engineering
+
+Prof. Rajesh Kumar - Assistant Professor
+Email: rajesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Embedded Systems
+
+Prof. Ramprasad S. Joshi - Associate Professor
+Email: ramprasad@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Databases
+
+Prof. Raunak Sunil Manekar - Assistant Professor, Gr-I
+Email: raunak@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Algorithms
+
+Prof. Sachindra Joshi - Professor of Practice
+Email: sachindra@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: AI in Healthcare
+
+Prof. Sanjay K. Sahay - Professor
+Email: sanjay@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Cybersecurity
+
+Prof. Santonu Sarkar - Professor
+Email: santonu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Software Testing
+
+Prof. Shubhangi - Assistant Professor
+Email: shubhangi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Data Mining
+
+Prof. Siddharth Gupta - Assistant Professor
+Email: siddharth@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Blockchain
+
+Prof. Snehanshu Saha - Professor
+Email: snehanshu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: AI Ethics
+
+Prof. Sougata Sen - Assistant Professor
+Email: sougata@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Wireless Networks
+
+Prof. Sravan Danda - Assistant Professor
+Email: sravan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Computer Architecture
+
+Prof. Sreekrishnan Venkateswaran - Professor of Practice
+Email: sreekrishnan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Cloud Security
+
+Prof. Sujith Thomas - Assistant Professor
+Email: sujith@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: IoT
+
+Prof. Surjya Ghosh - Assistant Professor
+Email: surjya@goa.bits-pilani.ac.in
+Phone: 0832-2580807
+Chamber: CSIS-D242
+Research Interests: Data Science and Artificial Intelligence, Systems
+
+Prof. Swaroop Joshi - Assistant Professor
+Email: swaroop@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: High-Performance Computing
+
+Prof. Tanmay Tulsidas Verlekar - Assistant Professor
+Email: tanmay@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-2XX
+Research Interests: Bioinformatics
+
+Prof. Vinayak Naik - Professor
+Email: vinayak@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: CSIS-1XX
+Research Interests: Mobile Computing
+
+
+
+
+
+
+
+
+
+
+Department: Humanities and Social Sciences
+Prof. Amitendu Bhattacharya - Associate Professor
+Email: amitendu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-201
+Research Interests: Economics, Development Studies
+
+Dr. Anu K. Antony - Assistant Professor, Gr-I
+Email: anu.antony@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-301
+Research Interests: Linguistics, English Literature
+
+Dr. Aswini S - Assistant Professor
+Email: aswini@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-302
+Research Interests: Sociology, Gender Studies
+
+Dr. Hareesh A.G - Assistant Professor
+Email: hareesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-303
+Research Interests: Philosophy, Indian Thought
+
+Dr. Mohan Kumar Bera - Assistant Professor
+Email: mohan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-304
+Research Interests: Economics, Public Policy
+
+Dr. Nilak Datta - Associate Professor
+Email: nilak@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-202
+Research Interests: English Literature, Cultural Studies
+
+Dr. Rajiv Kumar Chaturvedi - Associate Professor
+Email: rajiv@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-203
+Research Interests: Economics, Environmental Studies
+
+Dr. Rayson K. Alex - Associate Professor
+Email: rayson@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-204
+Research Interests: Postcolonial Literature, Ecocriticism
+
+Dr. Sayantan Chakraborty - Assistant Professor
+Email: sayantan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-305
+Research Interests: Philosophy, Logic
+
+Dr. Sayantani Sarkar - Assistant Professor
+Email: sayantani@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-306
+Research Interests: Sociology, Urban Studies
+
+Dr. Solano Jose Savio Da Silva - Assistant Professor
+Email: solano@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-307
+Research Interests: Portuguese Studies, Translation
+
+Prof. Geetha Bakilapadavu - Professor
+Email: geetha@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-101
+Research Interests: English Literature, Postmodernism
+
+Dr. Kathryn Hummel - Visiting Associate Professor
+Email: kathryn@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-401
+Research Interests: Creative Writing, Poetry
+
+Dr. Nilanjana Goswami - Assistant Professor
+Email: nilanjana@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-308
+Research Interests: Economics, Game Theory
+
+Prof. Basavadatta Mitra - Associate Professor
+Email: basavadatta@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-205
+Research Interests: Psychology, Cognitive Science
+
+Prof. K.A. Geetha - Professor & HoD
+Email: geetha.ka@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-001
+Research Interests: Economics, Development Studies
+
+Prof. R.P. Pradhan - Professor
+Email: pradhan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-102
+Research Interests: International Relations, Political Science
+
+Prof. Reena Cheruvalath - Professor
+Email: reena@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-103
+Research Interests: Education, Psychology
+
+Prof. Shalini Upadhyay - Professor
+Email: shalini@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: HSS-104
+Research Interests: English Literature, Feminist Studies
+
+
+
+
+
+
+
+
+Department: Mathematics
+
+Prof. Amit Setia - Associate Professor
+Email: amit.setia@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-201
+Research Interests: Functional Analysis, Operator Theory
+
+Prof. Amiya Kumar Pani - Visiting Professor
+Email: amiya.pani@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-V01
+Research Interests: Numerical Analysis, PDEs
+
+Prof. Anil Kumar - Associate Professor
+Email: anil.kumar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-202
+Research Interests: Algebra, Number Theory
+
+Dr. Anupama Sharma - Assistant Professor, Gr-I
+Email: anupama.sharma@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-301
+Research Interests: Graph Theory, Combinatorics
+
+Dr. Anushaya Mohapatra - Assistant Professor, Gr-I
+Email: anushaya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-302
+Research Interests: Probability Theory, Stochastic Processes
+
+Prof. Danumjaya Palla - Professor
+Email: danumjaya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-101
+Research Interests: Numerical Analysis, Computational Mathematics
+
+Dr. Debolina Ghatak - Assistant Professor
+Email: debolina@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-303
+Research Interests: Differential Equations, Mathematical Biology
+
+Dr. Devika S - Assistant Professor, Gr-I
+Email: devika@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-304
+Research Interests: Fluid Dynamics, Applied Mathematics
+
+Dr. Gunja Sachdeva - Assistant Professor, Gr-I
+Email: gunja@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-305
+Research Interests: Optimization, Operations Research
+
+Dr. Himadri Mukherjee - Assistant Professor, Gr-I
+Email: himadri@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-306
+Research Interests: Complex Analysis, Special Functions
+
+Prof. Jajati Keshari Sahoo - Associate Professor
+Email: jajati@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-203
+Research Interests: Number Theory, Cryptography
+
+Prof. M. Thamban Nair - Visiting Professor
+Email: thamban.nair@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-V02
+Research Interests: Functional Analysis, Inverse Problems
+
+Prof. Manoj Kumar Pandey - Associate Professor
+Email: manoj.pandey@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-204
+Research Interests: Fluid Mechanics, Applied Mathematics
+
+Dr. Mayank Goel - Assistant Professor, Gr-I
+Email: mayank.goel@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-307
+Research Interests: Mathematical Modeling, Biomathematics
+
+Dr. Minhajul - Assistant Professor, Gr-I
+Email: minhajul@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-308
+Research Interests: Algebra, Ring Theory
+
+Dr. Monojit Bhattacharjee - Assistant Professor, Gr-I
+Email: monojit@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-309
+Research Interests: Topology, Dynamical Systems
+
+Dr. Mukesh Kumar Nagar - Assistant Professor, Gr-I
+Email: mukesh.nagar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-310
+Research Interests: Numerical Analysis, Scientific Computing
+
+Dr. Prabal Paul - Assistant Professor, Gr-I
+Email: prabal@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-311
+Research Interests: Partial Differential Equations
+
+Dr. Pradeep Boggarapu - Assistant Professor, Gr-I
+Email: pradeep.b@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-312
+Research Interests: Fluid Dynamics, Mathematical Physics
+
+Prof. Prasanna Kumar Nekkare - Professor
+Email: prasanna@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-102
+Research Interests: Algebra, Representation Theory
+
+Dr. Saranya G. Nair - Assistant Professor
+Email: saranya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-313
+Research Interests: Graph Theory, Discrete Mathematics
+
+Dr. Shilpa Gondhali - Assistant Professor, Gr-I
+Email: shilpa@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-314
+Research Interests: Functional Analysis, Operator Algebras
+
+Prof. Tarkeshwar Singh - Professor
+Email: tarkeshwar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-103
+Research Interests: Fluid Mechanics, Continuum Mechanics
+
+Dr. Vaibhav Mehandiratta - Assistant Professor, Gr-I
+Email: vaibhav@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-315
+Research Interests: Control Theory, Optimization
+
+Dr. Yasmeen Akhtar - Assistant Professor, Gr-I
+Email: yasmeen@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: Math-316
+Research Interests: Algebra, Coding Theory
+
+
+
+
+
+
+
+
+
+Department: Economics and Finance
+Dr. Arfat Ahmad Sofi - Assistant Professor
+Email: arfats@goa.bits-pilani.ac.in
+Phone: 0832-2580263
+Chamber: D-308/14 (NAB)
+Research Interests: Applied Development Economics, Public Economics, Energy Economics, Applied Spatial Econometrics
+
+
+Prof. Aswini Kumar Mishra - Professor
+Email: aswini@goa.bits-pilani.ac.in
+Phone: +91-832-2580258
+Chamber: D-308/11 (NAB)
+Research Interests:  Behavioural Economics & Finance, Financial Risk Management, Financial and Microeconometrics
+
+
+Prof. Ch V V S N V Prasad - Associate Professor
+Email: prasad@goa.bits-pilani.ac.in
+Phone:91-832-2580420
+Chamber: in NAB
+Research Interests: Marketing, Operations Management, Strategic Management, Supply Chain and Operations
+
+
+Prof. Debasis Patnaik - Professor
+Email: marikesh@goa.bits-pilani.ac.in
+Phone: 0832-2580429 (O), 7875233825
+Chamber: D308/8 (NAB)
+Research Interests: Development Issues, Environmental Economics, Financial Economics, Social Sciences
+
+
+Dr. Yadawananda Neog - Assistant Professor
+Email: yadawanandan@goa.bits-pilani.ac.in
+Phone: 0832-2580887
+Chamber: D30B/6 (NAB)
+Research Interests: Macroeconomics, Political Economics, Energy & Environmental Economics, Public Finance
+
+Dr. Rajesh Barik - Assistant Professor
+Email: rajeshb@goa.bits-pilani.ac.in, rajeshbarik195@gmail.com
+Phone: 0832-2580884 (O), 8619297050
+Chamber: CC-213
+Research Interests: Macroeconomics, Monetary Economics
+
+Dr. Mohit Kumar - Assistant Professor
+Email: mohitk@goa.bits-pilani.ac.in, mohit.kumar.offcl@gmail.com
+Phone: 0832-2580894
+Chamber: CC-216
+Research Interests: Industrial Organization, Game Theory
+
+Prof. Mridula Goel - Professor
+Email: mridula@goa.bits-pilani.ac.in, mridulamh@gmail.com
+Phone: 9623524404, 9307773983
+Chamber: C908
+Research Interests: Business Environment, Entrepreneurship, Gender Issues, International Economic Order
+
+Dr. R Leshma Manogna - Assistant Professor
+Email: manognar@goa.bits-pilani.ac.in
+Phone: 0832-2580885
+Chamber: D-308/7 (NAB)
+Research Interests: Agricultural Commodity Markets, Corporate Finance, Financial Econometrics, Financial Inclusion, Sustainable Development
+
+Dr. Rajorshi Sen Gupta - Associate Professor
+Email: rajorshis@goa.bits-pilani.ac.in
+Phone: 0832-2580462
+Chamber: 
+Research Interests: Innovation, Intellectual Property Management, Principal-Agent Contracts, Simulation, Transportation Economics
+
+Dr. Richa Shukla - Assistant Professor, Gr-I
+Email: richask@goa.bits-pilani.ac.in
+Phone: 0832-2580216
+Chamber: NAB, Chamber 308/15
+Research Interests: Econometric Modeling, Game Theory, Industry Structure, Innovation and Energy Efficiency, Statistical Analysis, Strategic Behavior of Firms
+
+Dr. Ritika Jaiswal - Assistant Professor, Gr-I
+Email: ritikaj@goa.bits-pilani.ac.in
+Phone: 0832-2580323, +91-9897604636
+Chamber: D 308/13 (NAB)
+Research Interests: Corporate Finance, Energy Economics, Energy Finance, Financial Derivatives, Financial Economics
+
+Dr. Sandip Sarkar - Assistant Professor
+Email: sandips@goa.bits-pilani.ac.in, sandip.isl.08@gmail.com
+Phone: -2580XXX
+Chamber: 
+Research Interests: Development Economics, Political Economy
+
+Dr. Saroj S. Prasad - Visiting Assistant Professor
+Email: sarojo@goa.bits-pilani.ac.in
+Phone: 0832-2580889
+Chamber: 
+Research Interests: Asset Pricing Model, Financial Management, Stock Market Anomalies, Stock Market Efficiency
+
+Dr. Suman Gupta - Assistant Professor, Gr-I
+Email: sumang@goa.bits-pilani.ac.in
+Phone: 0832-2580187
+Chamber: New Academic Block, D-308/16
+Research Interests: Behavioral Accounting, Behavioral Finance, Financial Economics, Market Microstructure
+
+
+
+
+
+
+
+
+
+Department: Mechanical
+Dr. Abhinava Chatterjee - Assistant Professor, Gr-I
+Email: abhinava@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-201
+Research Interests: Thermal Engineering, Heat Transfer
+
+Dr. Biswajit Das - Assistant Professor, Gr-I
+Email: biswajit@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-202
+Research Interests: Fluid Mechanics, Computational Fluid Dynamics
+
+Dr. Devendra Gokul Patil - Assistant Professor, Gr-I
+Email: devendra@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-203
+Research Interests: Manufacturing Engineering, Industrial Engineering
+
+Prof. Dhananjay Madhukar Kulkarni - Senior Professor
+Email: dhananjay@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-101
+Research Interests: Materials Engineering, Composite Materials
+
+Dr. Ganesh M. Bapat - Assistant Professor
+Email: ganesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-204
+Research Interests: Machine Design, Tribology
+
+Dr. G. Karthikeyan - Associate Professor
+Email: karthikeyan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-205
+Research Interests: Thermal Systems, Renewable Energy
+
+Prof. Gautam Biswas - Senior Professor Emeritus
+Email: gautam@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-001
+Research Interests: Fluid Mechanics, Turbulence
+
+Dr. Iniyan Thiruselvam N. - Assistant Professor, Gr-I
+Email: iniyan@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-206
+Research Interests: Robotics, Control Systems
+
+Dr. Kiran Dinkar Mali - Associate Professor
+Email: kiran@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-207
+Research Interests: Vibration, Structural Dynamics
+
+Dr. Nilesh D. Pawar - Assistant Professor, Gr-I
+Email: nilesh@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-208
+Research Interests: Manufacturing Processes, Additive Manufacturing
+
+Dr. Prasad Patil - Assistant Professor, Gr-I
+Email: prasad@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-209
+Research Interests: Thermodynamics, Energy Systems
+
+Prof. Pravin Madanrao Singru - Professor
+Email: pravin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-102
+Research Interests: Thermal Engineering, Refrigeration
+
+Dr. Pritanshu Ranjan - Assistant Professor, Gr-I
+Email: pritanshu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-210
+Research Interests: Computational Mechanics, Finite Element Analysis
+
+Dr. Pushkar Kamble - Assistant Professor, Gr-I
+Email: pushkar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-211
+Research Interests: Materials Science, Nanomaterials
+
+Dr. Ranjit Shankarrao Patil - Associate Professor
+Email: ranjit@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-212
+Research Interests: Machine Design, Mechanics of Materials
+
+Prof. Sachin Waigaonkar - Professor and Head
+Email: sachin@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-103
+Research Interests: Manufacturing Systems, Industrial Engineering
+
+Dr. Sandeep Jose - Assistant Professor, Gr-I
+Email: sandeep@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-213
+Research Interests: Fluid Mechanics, Aerodynamics
+
+Prof. Shibu Clement - Professor
+Email: shibu@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-104
+Research Interests: Thermal Engineering, Heat Exchangers
+
+Dr. Siddhartha Tripathi - Assistant Professor, Gr-I
+Email: siddhartha@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-214
+Research Interests: Robotics, Mechatronics
+
+Dr. Sudhy S. Panicker - Assistant Professor, Gr-I
+Email: sudhy@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-215
+Research Interests: Manufacturing, Machining
+
+Dr. Vadiraj Anant Hemadri - Assistant Professor, Gr-I
+Email: vadiraj@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-216
+Research Interests: Vibration, Acoustics
+
+Dr. Vaibhav Joshi - Assistant Professor
+Email: vaibhav@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-217
+Research Interests: Thermal Systems, Energy Conversion
+
+Dr. Varinder Singh - Associate Professor
+Email: varinder@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-218
+Research Interests: Fluid Mechanics, Turbomachinery
+
+Dr. Vikas Vinayak Chaudhari - Associate Professor
+Email: vikas@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: ME-219
+Research Interests: Materials Engineering, Metallurgy
+
+
+
+
+
+
+
+
+Department: Physics
+Dr. Aabhaas Vineet Mallik - Assistant Professor, Gr-I
+Email: aabhaas@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-301
+Research Interests: Condensed Matter Physics, Materials Science
+
+Dr. Arnab Roy - Assistant Professor
+Email: arnab.roy@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-302
+Research Interests: Quantum Field Theory, Particle Physics
+
+Prof. Arun Venkatesh Kulkarni - Professor
+Email: arun.kulkarni@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-101
+Research Interests: Nonlinear Dynamics, Complex Systems
+
+Dr. Chandradew Sharma - Associate Professor
+Email: chandradew@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-201
+Research Interests: Astrophysics, Cosmology
+
+Dr. Debmalya Chakraborty - Assistant Professor, Gr-I
+Email: debmalya@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-303
+Research Interests: Quantum Information, Condensed Matter Theory
+
+Dr. Deepak Narayana Murthy Pachattu - Assistant Professor, Gr-I
+Email: deepak@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-304
+Research Interests: Experimental Particle Physics
+
+Dr. Gaurav Dar - Associate Professor
+Email: gaurav@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-202
+Research Interests: High Energy Physics, String Theory
+
+Dr. Indrakshi Raychowdhury - Assistant Professor
+Email: indrakshi@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-305
+Research Interests: Quantum Gravity, Theoretical Physics
+
+Dr. Indrani Chakraborty - Assistant Professor, Gr-I
+Email: indrani@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-306
+Research Interests: Nanomaterials, Surface Science
+
+Dr. Kinjal Banerjee - Associate Professor
+Email: kinjal@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-203
+Research Interests: General Relativity, Black Hole Physics
+
+Prof. P. Nandakumar - Professor
+Email: nandakumar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-102
+Research Interests: Semiconductor Physics, Device Physics
+
+Prof. Prasanta Kumar Das - Professor
+Email: prasanta@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-103
+Research Interests: Soft Matter Physics, Biophysics
+
+Prof. Radhika Vathsan - Professor
+Email: radhika@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-104
+Research Interests: Quantum Optics, Atomic Physics
+
+Dr. Raghunath Anand Ratabole - Associate Professor
+Email: raghunath@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-204
+Research Interests: Particle Physics Phenomenology
+
+Prof. Ram Shanker Patel - Professor
+Email: ram.patel@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-105
+Research Interests: Condensed Matter Physics
+
+Dr. Rudranil Basu - Assistant Professor
+Email: rudranil@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-307
+Research Interests: String Theory, Holography
+
+Dr. Sanjib Dey - Assistant Professor
+Email: sanjib@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-308
+Research Interests: Quantum Field Theory
+
+Prof. Senthamarai Kannan Ethirajulu - Professor
+Email: senthamarai@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-106
+Research Interests: Materials Physics, Thin Films
+
+Dr. Sunilkumar Vattezhath - Associate Professor
+Email: sunilkumar@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-205
+Research Interests: Condensed Matter Theory
+
+Dr. Swastibrata Bhattacharyya - Assistant Professor, Gr-I
+Email: swastibrata@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-309
+Research Interests: 2D Materials, Computational Materials Science
+
+Dr. Tarun Kumar Jha - Associate Professor
+Email: tarun@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-206
+Research Interests: Nuclear Physics
+
+Dr. Teny Theresa John - Associate Professor
+Email: teny@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-207
+Research Interests: Materials Science, Nanotechnology
+
+Dr. Toby Joseph - Associate Professor
+Email: toby@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-208
+Research Interests: Quantum Chaos, Mesoscopic Physics
+
+Prof. Yoshiro Azuma - Visiting Professor
+Email: yoshiro@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-V01
+Research Interests: Particle Physics
+
+Dr. Yuriy Petenev - Visiting Assistant Professor
+Email: yuriy@goa.bits-pilani.ac.in
+Phone: -2580XXX
+Chamber: PHY-V02
+Research Interests: Theoretical Physics
+
+
+BITS Pilani, Goa Campus Hostels: The campus has 23 hostels in total, categorized as A Hostels (AH1-AH10), C Hostels (CH1-CH7), and D Hostels (DH1-DH6). 
+
+AH-1
+Warden Name: Prof. Arfat Ahmad Sofi
+Warden Designation and Department: Assistant Professor, Dept. of Economics & Finance
+
+AH-2
+Warden Name: Prof. Arfat Ahmad Sofi
+Warden Designation and Department: Assistant Professor, Dept. of Economics & Finance
+
+AH-3
+Warden Name: Prof. Pradeep Boggarapu
+Warden Designation and Department: Assistant Professor, Dept. of Mathematics
+
+AH-4
+Warden Name: Prof. Pritanshu Ranjan
+Warden Designation and Department: Assistant Professor, Dept. of Mechanical Engineering
+
+AH-5
+Warden Name: Prof. Ashish Chittora
+Warden Designation and Department: Associate Professor, Dept. of EEE
+
+AH-6
+Warden Name: Prof. Raviprasad Aduri
+Warden Designation and Department: Associate Professor, Dept. of Biological Sciences
+
+AH-7
+Warden Name: Prof. Amol Anilrao Deshpande
+Warden Designation and Department: Assistant Professor, Dept. of Chemical Engineering
+
+AH-8
+Warden Name: Prof. Tusar Tirtha Saha
+Warden Designation and Department: Assistant Professor, Dept. of Biological Sciences
+
+AH-9
+Warden Name: Prof. Naveen Gupta
+Warden Designation and Department: Assistant Professor, Dept. of EEE
+
+CH-1
+Warden Name: Prof. Sudeep Baudha
+Warden Designation and Department: Associate Professor, Dept. of EEE
+
+CH-2
+Warden Name: Prof. Varinder Singh
+Warden Designation and Department: Associate Professor, Dept. of Mechanical Engineering (Chief Warden)
+
+CH-3
+Warden Name: Prof. Indrani Talukdar
+Warden Designation and Department: Associate Professor, Dept. of Biological Sciences
+
+CH-4
+Warden Name: Prof. Indrani Talukdar
+Warden Designation and Department: Associate Professor, Dept. of Biological Sciences
+
+CH-5
+Warden Name: Prof. Ritika Jaiswal
+Warden Designation and Department: Assistant Professor, Dept. of Economics & Finance
+
+CH-6
+Warden Name: Prof. Ritika Jaiswal
+Warden Designation and Department: Assistant Professor, Dept. of Economics & Finance
+
+CH-7
+Warden Name: Prof. Anushaya Chittaranjan Mohapatra
+Warden Designation and Department: Assistant Professor, Dept. of Mathematics
+
+DH-1
+Warden Name: Prof. Mohan Kumar Bera
+Warden Designation and Department: Assistant Professor, Dept. of HSS
+
+DH-2
+Warden Name: Prof. Nilesh Dadasaheb Pawar
+Warden Designation and Department: Assistant Professor, Dept. of Mechanical Engineering
+
+DH-3
+Warden Name: Prof. Ravi Kadlimatti
+Warden Designation and Department: Assistant Professor, Dept. of EEE
+
+DH-4
+Warden Name: Prof. Kanchan Manna
+Warden Designation and Department: Assistant Professor, Dept. of CS & IS
+
+DH-5
+Warden Name: Prof. Kiran Dinkar Mali
+Warden Designation and Department: Associate Professor, Dept. of Mechanical Engineering
+
+DH-6
+Warden Name: Prof. Vivek Rangarajan
+Warden Designation and Department: Associate Professor, Dept. of Chemical Engineering
+
+
+Mess Facilities
+A-Mess
+Location: Near A-Hostels
+Serving: Breakfast, Lunch, Dinner for AH residents
+
+C-Mess
+Location: Near C-Hostels
+Serving: Breakfast, Lunch, Dinner for CH residents
+
+D-Mess
+Location: Near D-Hostels
+Serving: Breakfast, Lunch, Dinner for DH residents
+
+Campus Eateries
+1) Ice n Spice (INS)
+Contact Number: 8755065781
+
+2) Food King (FK)
+Contact Number: 8390194166
+
+3) Red Chillies (RC)
+Contact Number: 9878162222
+
+4) Subspot
+Contact Number: 9888888202
+
+5) Amul
+Contact Number: 9988300100
+
+
+Fests - there are 3 fests - Waves (the cultural fests), Quark (the Technical fest) and Spree(the sports fest).
+
+Departments in the making of the fest: DePP(Department of publicity and public relations), DoFaM(Department of finance and management), DoSM(Department of Sponsorship and Management), DoSaR, Department of ProNights, DoPY(Department of Photography), Waves control, Quark Control, Spree Control
+
+Clubs : MuSoc(Music Society), Unify (the dance crew), Robotics club, Arts&Deco, Kala, Synchronise (The acapella group).
+
+
+Course: Computer Science  
+Description: Covers topics such as algorithms, data structures, artificial intelligence, and software engineering.  
+
+Course: Business Administration  
+Description: Focuses on management principles, marketing strategies, and financial analysis.  
+
+Department: Electrical Engineering  
+Description: Specializes in circuit design, embedded systems, and power electronics.  
+  
+Scholarship: Merit-Based Scholarship  
+Description: Awarded to students with outstanding academic performance. 
+Merit-Cum- Need Scholarship
+Description: Awarded to students with good academic performance whose family income is less than a certain cap. Covers up to 80% of tuition fees.
+
+Club: Robotics Club  
+Description: A student-run organization that builds autonomous robots and competes in national competitions.  
+

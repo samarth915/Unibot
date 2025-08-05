@@ -1,0 +1,73 @@
+Sheet: Sheet1
+ Biological Sciences     
+ Name Designation Email Phone Office Research Interests
+ Prof. Dibakar Chakrabarty Head of Department hod.biology@goa.bits-pilani.ac.in -2580914 [Information Not Available] [Information Not Available]
+ Prof. Sumit Biswas Professor sumit@goa.bits-pilani.ac.in -2580919 Chamber C212 Biology of biofilms, Horseshoe Crab Evo Devo, Natural Therapeutics, Structure-function of proteins from pathogens
+ Prof. Judith Maria Braganca Professor judith@goa.bits-pilani.ac.in -2581046 Chamber C205 Biodiversity of Halophiles, Biotechnological applications of halophilic archaea and bacteria, Metal tolerance in microorganisms
+ Prof. Malabika Biswas Associate Professor [Information Not Available] [Information Not Available] [Information Not Available] Gene regulation in bacteriophages, Structural and functional characterization of bacterial proteins
+ Prof. Anasuya Ganguly Professor ganguly@goa.bits-pilani.ac.in -2580985 [Information Not Available] [Information Not Available]
+ Prof. Angshuman Sarkar Professor asarkar@goa.bits-pilani.ac.in -2581002 [Information Not Available] [Information Not Available]
+ Prof. Veeky Baths Assistant Professor veeky@goa.bits-pilani.ac.in -3765878 [Information Not Available] [Information Not Available]
+ Prof. Raviprasad Aduri Assistant Professor aduri@goa.bits-pilani.ac.in -2581135 [Information Not Available] [Information Not Available]
+ Prof. Kundan Kumar Assistant Professor kundan@goa.bits-pilani.ac.in [Information Not Available] [Information Not Available] [Information Not Available]
+ Prof. Sukanta Mondal Assistant Professor suku@goa.bits-pilani.ac.in -2580890 [Information Not Available] [Information Not Available]
+ Prof. Srikanth Mutnuri Associate Professor [Information Not Available] [Information Not Available] [Information Not Available] [Information Not Available]
+ Prof. Vijayashree Nayak Professor [Information Not Available] [Information Not Available] [Information Not Available] [Information Not Available]
+ Prof. Utpal Roy Professor [Information Not Available] [Information Not Available] [Information Not Available] [Information Not Available]
+      
+ Chemical     
+ Name Designation Email Phone Office Research Interests
+ Prof. Sutapa Roy Ramanan Professor [Information Not Available] [Information Not Available] [Information Not Available] Effect of doping and surface functionalization on protein conformational changes upon interaction with hydroxyapatite nanoparticles
+ Prof. Srinivas Krishnaswamy Professor srinivas@goa.bits-pilani.ac.in -2581049 [Information Not Available] Process Engineering/Intensification
+ Prof. Sampatrao Dagu Manjare Professor [Information Not Available] [Information Not Available] [Information Not Available] Process Systems Engineering, recovery of resources from waste streams/materials, development of new filler materials, environment management systems
+ Prof. Saroj Sundar Baral Professor [Information Not Available] [Information Not Available] [Information Not Available] Single atom photocatalyst in energy and environment sustainability, catalytic biodiesel production
+ Prof. Manjuri Kumar Associate Professor manjuri@goa.bits-pilani.ac.in -9765209231 [Information Not Available] Design, synthesis, and characterization of novel copper and zinc complexes, DNA binding, protein interaction, anticancer activity
+ Prof. Sharad Sontakke Associate Professor [Information Not Available] [Information Not Available] [Information Not Available] Catalytic applications of Metal Organic Frameworks, waste-water treatment, CO₂ capture, gas to liquid conversion, hydrogen generation, water splitting
+ Dr. Vivek Rangarajan Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Microbial products for applications in cosmetics, food; Bioprocessing Engineering
+ Dr. Anirban Roy Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Developing tangible solutions from understanding fundamentals of interactions and developing engineering correlations for process design
+ Dr. Jegatha Nambi Krishnan Associate Professor jegathak@goa.bits-pilani.ac.in -9096927336 [Information Not Available] Electrochemical Microfluidic devices for detection of heavy metal ions in water samples
+ Dr. Asima Shaukat Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Morphology, rheology, and aging behavior of polymer nanocomposites
+ Dr. Richa Singhal Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Nanomaterials, electrochemical energy storage, metal-air batteries
+ Dr. Pradeep Kumar Sow Assistant Professor pradeeps@goa.bits-pilani.ac.in -2580968 [Information Not Available] Dynamic Electrolyte Spreading during Meniscus-Confined Electrodeposition
+ Dr. Amol Deshpande Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Energy minimization in chemical industries, effective utilization and recovery of energy
+ Dr. Paramita Haldar Assistant Professor paramitah@goa.bits-pilani.ac.in -2581021 A301/14 or A200 Molecular Modeling, Protein Docking, Drug delivery, Energy Storage materials, Electronic Properties Calculations, Molecular Dynamics Simulations, Finite Element Method Analysis
+ Dr. Sundari R Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Coalescence of droplets in the presence of surfactants
+ Dr. Riju De Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Thermochemical Processes, lignocellulosic biomass components
+ Dr. Mrunalini Gaydhane Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Fabrication of functionalized polymeric nanofibers, encapsulation of therapeutic agents
+ Dr. Upasana Mahanta Assistant Professor upasanam@goa.bits-pilani.ac.in -2581000 [Information Not Available] Electrochemical Energy Storage, Phase Equilibria and Thermodynamics, Molecular Dynamic Simulation
+ Dr. Saurabh Patankar Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Waste management and valorization, green chemistry, catalytic technologies
+ Dr. Jayita Chopra Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Biofuel production from various low-cost substrates, sustainable development
+      
+ Chemistry     
+ Name Designation Email Phone Office Research Interests
+ Prof. Halan Prakash Head of Department halanprakash@goa.bits-pilani.ac.in [Information Not Available] [Information Not Available] [Information Not Available]
+ Prof. Mainak Banerjee Professor mainak@goa.bits-pilani.ac.in -2581088 [Information Not Available] Green Chemistry, Mechanochemistry, Medicinal Chemistry, Organic Synthesis, Supramolecular Chemistry
+ Prof. Raghu Nath Behera Professor rbehera@goa.bits-pilani.ac.in -2581072 Room No. C221 Computational Chemistry, Molecular Modelling & Simulation
+ Prof. Anjan Chattopadhyay Professor anjan@goa.bits-pilani.ac.in -2581060 [Information Not Available] Computational Photochemistry
+ Dr. Subhasish Roy Assistant Professor subhasishr@goa.bits-pilani.ac.in -2581056 [Information Not Available] Chemistry of Biomolecules, Energy and Environment, Hydrogels, Materials Chemistry, Molecular and Supramolecular Sensors, Peptide Chemistry, Supramolecular Catalysis, Supramolecular Chemistry, Supramolecular Electronics, Systems Chemistry
+ Dr. Saurav Bhattacharya Assistant Professor sauravb@goa.bits-pilani.ac.in -2581225 Office No. CEX-8 Heterogeneous Catalysis, Inorganic Chemistry, Inorganic materials, Inorganic-Organic Hybrid Materials, Metal-Organic Frameworks, Metal-organic hybrid materials
+      
+ EEE     
+ Name Designation Email Phone Office Research Interests
+ Dr. Abhijit Jayant Pethe Associate Professor abhijitp@goa.bits-pilani.ac.in -2580955 [Information Not Available] [Information Not Available]
+ Dr. A. Amalin Prince Professor amalinprince@goa.bits-pilani.ac.in -2580896 D-222 Affective Computing, Applications of Artificial Intelligence, FPGA-based System Design, Hardware Accelerated Data Processing
+ Dr. Vipin Joshi Assistant Professor vipinj@goa.bits-pilani.ac.in -2581567 D-112 Gallium Nitride High Electron Mobility Transistors, Modeling and simulation of next-generation power semiconductor devices, Power Semiconductor Devices, TCAD-based reliability physics analysis, Wide bandgap semiconductors
+ Dr. Ravi Kadlimatti Assistant Professor ravik@goa.bits-pilani.ac.in -2581120 D-210 5G, Antennas and Propagation, B5G, Communications, MIMO, Phased Arrays, Radar, Signal Processing
+ Dr. Narayan Manjrekar Assistant Professor narayan@goa.bits-pilani.ac.in -2580935 [Information Not Available] [Information Not Available]
+ Dr. Sudeep Baudha Associate Professor [Information Not Available] [Information Not Available] [Information Not Available] [Information Not Available]
+ Dr. K.R. Anupama Professor anupkr@goa.bits-pilani.ac.in [Information Not Available] [Information Not Available] Network Embedded Systems
+ Dr. Meetha V. Shenoy Lecturer meetha@goa.bits-pilani.ac.in [Information Not Available] [Information Not Available] Embedded Systems, VLSI Architecture and Design
+ Dr. Nitin Sharma Associate Professor [Information Not Available] [Information Not Available] [Information Not Available] [Information Not Available]
+ Dr. Manish Gupta Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] [Information Not Available]
+      
+ CS     
+ Name Designation Email Phone Office Research Interests
+ Prof. Vinayak Naik Professor vinayak@goa.bits-pilani.ac.in -2580951 D255 Data Science, Artificial Intelligence, Networks, Systems
+ Dr. Ashwin Srinivasan Senior Professor ashwin@goa.bits-pilani.ac.in -2580852 [Information Not Available] [Information Not Available]
+ Dr. Bharat Deshpande Associate Professor & HOD bmd@goa.bits-pilani.ac.in -2581179 [Information Not Available] [Information Not Available]
+ Dr. Abhisek Chakrabarty Assistant Professor, Gr-I abhisekc@goa.bits-pilani.ac.in -2581560 D-265 Natural Language Processing (NLP), Text Mining, Deep Learning, NLP for Indic Languages
+ Dr. Raunak Manekar Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Machine Learning for Scientific Imaging
+ Dr. Aniket Basu Roy Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Approximation Algorithms, Geometric Packing and Covering Problems
+ Dr. Manideepa Mukherjee Visiting Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Human-Centered Design, Digital Health, Human-Computer Interaction (HCI)
+ Dr. Gargi Sanket Prabhu Visiting Assistant Professor [Information Not Available] [Information Not Available] [Information Not Available] Visual Computing, High-Performance Computing, Machine Learning
+
